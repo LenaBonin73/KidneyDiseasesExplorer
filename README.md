@@ -1,6 +1,6 @@
 # KidneyDiseasesExplorer
 
-Kidney Diseases Eplorer is a shiny app, that makes it easy to visualize some data about proteins enrolled in kidney diseases.
+Kidney Diseases Explorer is a shiny app, that makes it easy to visualize some data about proteins enrolled in kidney diseases.
 
 ## Functionalities
 The application proposes 4 main functionalities : 
