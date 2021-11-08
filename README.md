@@ -92,5 +92,7 @@ This dataset is the first of two derived from PMID: 32047005 (https://pubmed.ncb
 <strong> NATIVE_Podocyte_LPS_vs_Control_mouse	mPodo_LPS	The proteome of LPS treated native podocytes vs control  </strong> <br>
 This dataset is the second of two derived from PMID: 32047005 (https://pubmed.ncbi.nlm.nih.gov/32047005/). The study describes a proteomic approach to identify participants in the early and late disease responses of podocytes. In this particular dataset the proteome of LPS treated native podocytes is analyzed by mass spectroscopy. The comparison in the app is between isolated podocytes from Podocin.2A.iCre.2A.mTomato mice, which were injected with LPS and vehicle-treated controls. The transcription factor Stat-1 as well as proteins in essential metabolic pathways were significantly increased. Adhesion process proteins, associated with the actin-cytoskeleton, were downregulated.
 
-
+## Add your own dataset
+We have made it possible to add a new dataset. However, to do that, one will have to use the app locally, that it to say, one have to download all the files and the database. <br>
+The function [add_table.R](add_table.R) is to be used.
 
