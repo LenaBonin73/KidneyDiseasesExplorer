@@ -114,5 +114,5 @@ One must enter the following argument in that exact order :
 - Name of the -log10 p-value colum
 - If there is one, name of the second log2 fold-change column and then name of the second -log10 p-value column
 
-Note : By default, if there is a second test, it will create two tables in the database, one named as passed in the arguments, the second one with the same name following by "2". If one wish to change that, one can follow the procedure under "## Rename table".
+Note : By default, if there is a second test, it will create two tables in the database, one named as passed in the arguments, the second one with the same name following by "2". If one wish to change that, one can follow the procedure under "# Rename a table" in the function file.
 
