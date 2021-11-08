@@ -94,5 +94,25 @@ This dataset is the second of two derived from PMID: 32047005 (https://pubmed.nc
 
 ## Add your own dataset
 We have made it possible to add a new dataset. However, to do that, one will have to use the app locally, that it to say, one have to download all the files and the database. <br>
-The function [add_table.R](add_table.R) is to be used.
+The new dataset must be in either <strong> .txt </strong> or <strong> .csv </strong> format. It <strong> MUST </strong> contain : 
+- A column named "Gene_names" which contains the gene name
+- A column which contains the log2 fold-changes
+- A column which contains the -log10 p-values associated to the t-test 
+
+The new dataset <strong> CAN </strong> contain : 
+- A column which contains log2 fold-changes of another test
+- A column which contains -log10 p-values of the t-test on the second column of fold-changes <br>
+
+The function [add_table_function.R](add_table_function.R) is to be used to add the dataset into the database.<br>
+One must enter the following argument in that exact order : 
+- Path to the database
+- Path to the new dataset
+- Name of the dataset to be used in the database
+- Decimal character used in the dataset
+- Separator character used in the dataset
+- Name of the log2 fold-change column
+- Name of the -log10 p-value colum
+- If there is one, name of the second log2 fold-change column and then name of the second -log10 p-value column
+
+Note : By default, if there is a second test, it will create two tables in the database, one named as passed in the arguments, the second one with the same name following by "2". If one wish to change that, one can follow the procedure under "## Rename table".
 
