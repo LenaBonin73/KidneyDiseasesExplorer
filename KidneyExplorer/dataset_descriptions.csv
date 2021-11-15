@@ -1,0 +1,13 @@
+original_name	short_name	short_description 	PMID 
+cPodocyte_G195D_WT_human	hPodocult_Actn4Mutation	The effect of G195D Mutation in cultured human podocytes vs control	https://pubmed.ncbi.nlm.nih.gov/26740551/
+cPodocyte_PAN_cultured_human	hPodocult_PAN_33	The effect of PAN on cultured human podocytes vs control (33 degree)	https://pubmed.ncbi.nlm.nih.gov/28400537/
+cPodocyte_PAN_cultured_human	hPodocult_PAN_37	The effect of PAN on cultured human podocytes vs control (37 degree)	https://pubmed.ncbi.nlm.nih.gov/28400537/
+Glom_PAN_rat	rGlom_PAN_d2	The effect of PAN on rat glomeruli in vivo vs control (day 2)	https://pubmed.ncbi.nlm.nih.gov/28400537/
+Glom_PAN_rat	rGlom_PAN_d4	The effect of PAN on rat glomeruli in vivo vs control (day 4)	https://pubmed.ncbi.nlm.nih.gov/28400537/
+Human_FSGS_1_FSGS_2_vs_con2	hGlom_FSGS_1	The proteome of FSGS single glomeruli in human	https://pubmed.ncbi.nlm.nih.gov/29530281/
+Human_FSGS_1_FSGS_2_vs_con2	hGlom_FSGS_2	The proteome of FSGS single glomeruli in human	https://pubmed.ncbi.nlm.nih.gov/29530281/
+Human_NPHS_pat1vscon	hGlom_NephrinMutation_1	The proteome of nephrin mutation in human patient 1	https://pubmed.ncbi.nlm.nih.gov/29530281/
+Human_NPHS_pat2vscon	hGlom_NephrinMutation_2	The proteome of nephrin mutation in human patient 2	https://pubmed.ncbi.nlm.nih.gov/29530281/
+NATIVE_Podocyte_Doxorubicine_vs_control_v2_mouse	mPodo_Doxorubicin	The proteome of Doxorubicin treated native podocytes vs control 	https://pubmed.ncbi.nlm.nih.gov/32047005/
+NATIVE_Podocyte_LPS_vs_Control_mouse	mPodo_LPS	The proteome of LPS treated native podocytes vs control 	https://pubmed.ncbi.nlm.nih.gov/32047005/
+PUC_G195D_WT_con_human	hPUC_ACTN4Mutation	The effect of G195D Mutation in G195D PUCs vs control	https://pubmed.ncbi.nlm.nih.gov/26740551/
